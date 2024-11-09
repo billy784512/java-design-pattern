@@ -1,0 +1,13 @@
+Spreadsheet change CustomerServiceStaff 2.
+Seafood 8
+RollsRoyce 2
+BoxOfficeStaff 3
+CustomerServiceStaff 2
+======== Seafood
+== RollsRoyce
+=== BoxOfficeStaff
+== CustomerServiceStaff
+Seafood 53.3%
+RollsRoyce 13.3%
+BoxOfficeStaff 20.0%
+CustomerServiceStaff 13.3%
